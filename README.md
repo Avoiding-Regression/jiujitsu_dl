@@ -7,5 +7,5 @@ This project aims to correctly identify the positions of two rolling jiu jitsu i
 Once on the machine, you should be able to find the data in the following directory: 
 - `/mnt/data/jiu_jitsu`
 
-There, you should find the data and labels accordingly.
+There, you should find the data (images) and labels accordingly.
 
